@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=amberwinslow&style=flat-square)
+![](https://komarev.com/ghpvc/?username=amberwinslow&style=plastic)
 
 <!--
 **amberwinslow/amberwinslow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
