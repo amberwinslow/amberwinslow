@@ -1,7 +1,9 @@
-<img width="500" height="168" alt="tumblr_e266a9a017bedb61f583f088ef1c0d7c_80cd9445_500" src="https://github.com/user-attachments/assets/e58950e8-44b8-457d-bb60-3fd4669acd19" />
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic))
-<img width="500" height="168" alt="tumblr_e266a9a017bedb61f583f088ef1c0d7c_80cd9445_500" src="https://github.com/user-attachments/assets/1e29c897-e26c-4e0c-ae46-c7ddc0b40fc3" />
+<img width="500" height="67" alt="tumblr_4350c3159ca40916b060283a276973ae_99aad410_500" src="https://github.com/user-attachments/assets/83a1022f-fd6d-4a39-9c16-c34d55ce899b" />
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+
+<img width="500" height="67" alt="tumblr_a1d3cc94c48642bd05ec7b7d174ad929_91995683_500" src="https://github.com/user-attachments/assets/da2facdb-3ef4-4b8f-b0df-77a6124b2c31" />
 
 <!--
 **amberwinslow/amberwinslow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
